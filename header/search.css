@@ -1,0 +1,9 @@
+.bar ul {
+    color: white;
+    list-style: none;
+    display: flex;
+}
+
+.bar li {
+    margin: 5px;
+}

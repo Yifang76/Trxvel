@@ -1,0 +1,20 @@
+.title {
+    padding-top: 70px;
+    background-color: black;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.titleWords {
+    max-width: 759px;
+    width: 100%;
+}
+
+.titleWords h1 {
+    margin: 0;
+    color: white;
+    font-family: Helvetica;
+    font-size: 72px;
+    text-decoration: bold;
+}

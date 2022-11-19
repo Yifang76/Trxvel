@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 0 40px;
+    color: white;
+}
+
+.headerLogo {
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+.headerNav ul {
+    font-family: Helvetica;
+    display: flex;
+    list-style: none;
+    /* List Style none - deletes bullet points */
+}
+
+.headerNav li {
+    margin: 5px;
+}
